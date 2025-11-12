@@ -33,8 +33,8 @@ const Gabriel = {
     name: "Gabriel",
     age: 28,
     address: {
-        street: "Sebastião Benedito Reis",
-        number: 102,
+        street: "Rua dos bobos",
+        number: 9587,
         city: "Votorantim",
         state: "SP",
         country: "Brasil",
@@ -48,7 +48,7 @@ Gabriel.address.country = "EUA"
 const user = {
     nome:"Gabriel",
     idade:"28",
-    nomeDaConjuge:"null",
+    nomeDaConjuge: null
 }
 
 //array
